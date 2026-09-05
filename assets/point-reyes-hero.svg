@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="t d">
+<title id="t">Point Reyes lighthouse illustration</title><desc id="d">Stylized lighthouse, coastal hills and Pacific Ocean at sunset.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9dc7c3"/><stop offset="1" stop-color="#f1d7a1"/></linearGradient><linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39746f"/><stop offset="1" stop-color="#173d3a"/></linearGradient></defs>
+<rect width="1000" height="700" rx="54" fill="url(#sky)"/><circle cx="770" cy="145" r="78" fill="#efc669"/>
+<path d="M0 420Q220 360 440 420T1000 400V700H0Z" fill="url(#ocean)"/><path d="M0 482Q220 425 440 490T1000 455" fill="none" stroke="#dcefeb" stroke-width="14" opacity=".75"/>
+<path d="M0 370L150 300l145 40 150-72 165 95 190-55 200 42V700H0Z" fill="#718262"/>
+<path d="M205 372l125-94 125 94v175H205z" fill="#fff9ec"/><path d="M184 374l146-116 146 116z" fill="#b95548"/><rect x="285" y="430" width="72" height="117" fill="#d7e5df"/>
+<rect x="638" y="286" width="92" height="210" rx="12" fill="#fff9ec"/><path d="M621 291h126l-28-52h-70z" fill="#b95548"/><rect x="628" y="319" width="112" height="42" rx="6" fill="#bdd6d2" stroke="#173d3a" stroke-width="8"/><path d="M648 239q38-57 76 0" fill="none" stroke="#173d3a" stroke-width="9"/><circle cx="686" cy="203" r="11" fill="#e6ad4b"/>
+<path d="M742 340l166-80" stroke="#f6dc91" stroke-width="16" stroke-linecap="round" opacity=".72"/>
+</svg>
